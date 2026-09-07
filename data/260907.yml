@@ -5,13 +5,13 @@ about:
   head: f2dc195
   archived: false
   latestVersion: "v0.1.16"
-  collectedAt: 2026-09-07T04:30:05Z
+  collectedAt: 2026-09-07T19:57:57Z
 timeline:
   created: 2019-05-22
   lastCommit: 2026-08-20
   lastRelease: 2026-03-19
 popularity:
-  star: 659
+  star: 658
   watcher: 7
   fork: 36
   release: 19
@@ -84,7 +84,7 @@ total:
   commit: 297
 ---
 path: /home/runner/.x-repo/github.com/casey/intermodal
-collectedAt: 2026-09-07T04:30:06Z
+collectedAt: 2026-09-07T19:57:58Z
 loc:
   Rust:
     code: 13854
@@ -238,7 +238,7 @@ checks:
       - 'Warn: 0 commits out of 30 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T04:30:07+00:00
+  collectedAt: 2026-09-07T19:57:58+00:00
   platform:
     darwin/arm64:
       name:  imdl-v0.1.16-aarch64-apple-darwin.tar.gz
