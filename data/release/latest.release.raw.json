@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 1744649,
       "digest": "sha256:832a98ab4c33902195419eba5557d1c225c53aed7ef0ddb3ba1ad9aba99a34be",
-      "download_count": 14,
+      "download_count": 15,
       "created_at": "2026-03-19T03:36:05Z",
       "updated_at": "2026-03-19T03:36:05Z",
       "browser_download_url": "https://github.com/casey/intermodal/releases/download/v0.1.16/imdl-v0.1.16-aarch64-apple-darwin.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 1877364,
       "digest": "sha256:0ea6b3517724af29a6fd76fe616ce032dd77e592e66b533f83b6e07a75e4076b",
-      "download_count": 13,
+      "download_count": 14,
       "created_at": "2026-03-19T03:35:33Z",
       "updated_at": "2026-03-19T03:35:33Z",
       "browser_download_url": "https://github.com/casey/intermodal/releases/download/v0.1.16/imdl-v0.1.16-x86_64-apple-darwin.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 1685381,
       "digest": "sha256:2de80aadb9c558b542feae7ec676e0bbe0c3d3582a571dafc100df1543601581",
-      "download_count": 637,
+      "download_count": 638,
       "created_at": "2026-03-19T03:38:07Z",
       "updated_at": "2026-03-19T03:38:08Z",
       "browser_download_url": "https://github.com/casey/intermodal/releases/download/v0.1.16/imdl-v0.1.16-x86_64-pc-windows-msvc.zip"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 2054210,
       "digest": "sha256:c9e60ec12a6a32eb771cabea9de2d697e2c4bded482240f9955f74e4b96a11c1",
-      "download_count": 2006,
+      "download_count": 2063,
       "created_at": "2026-03-19T03:35:33Z",
       "updated_at": "2026-03-19T03:35:33Z",
       "browser_download_url": "https://github.com/casey/intermodal/releases/download/v0.1.16/imdl-v0.1.16-x86_64-unknown-linux-musl.tar.gz"

@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.1.16"
   latestRelease: "v0.1.16"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T04:46:07Z
+  collectedAt: 2026-09-10T16:18:50Z
 timeline:
   created: 2019-05-22
   lastCommit: 2026-08-20
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-03-19
   lastPrerelease: 
 popularity:
-  star: 657
+  star: 658
   watcher: 7
   fork: 35
   release: 19
@@ -88,7 +88,7 @@ total:
   commit: 297
 ---
 path: /home/runner/.x-repo/github.com/casey/intermodal
-collectedAt: 2026-09-10T04:46:10Z
+collectedAt: 2026-09-10T16:18:52Z
 loc:
   Rust:
     code: 13854
