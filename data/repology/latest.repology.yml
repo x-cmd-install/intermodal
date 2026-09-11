@@ -130,7 +130,7 @@
     - intermodal-bash-completion
   visiblename: intermodal
   version: 0.1.14
-  origversion: 0.1.14-1.61
+  origversion: 0.1.14-1.62
   status: outdated
   summary: User-friendly and featureful CLI BitTorrent metainfo utility, written in Rust
   licenses:
