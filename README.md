@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 659 · **Forks**: 36 · **Open issues**: 260 · **Contributors**: 14
+- **Stars**: 660 · **Forks**: 36 · **Open issues**: 260 · **Contributors**: 14
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-21 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-22 | 0 | 2 | 0 | 1 | 0 | 2 |
-| 90d | 2026-06-22 | 0 | 2 | 0 | 1 | 0 | 2 |
-| last180d | 2026-03-24 | 0 | 2 | 0 | 1 | 1 | 2 |
-| 360d | 2025-09-25 | 2 | 11 | 0 | 3 | 2 | 11 |
-| last720d | 2024-09-30 | 2 | 15 | 0 | 4 | 2 | 16 |
+| 30d | 2026-08-22 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-23 | 0 | 2 | 0 | 1 | 0 | 2 |
+| 90d | 2026-06-23 | 0 | 2 | 0 | 1 | 0 | 2 |
+| last180d | 2026-03-25 | 0 | 2 | 0 | 1 | 1 | 2 |
+| 360d | 2025-09-26 | 2 | 11 | 0 | 3 | 2 | 11 |
+| last720d | 2024-10-01 | 2 | 15 | 0 | 4 | 2 | 16 |
 
 ## Release assets
 
@@ -87,4 +87,4 @@ Install metadata for intermodal lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260920.yml` · 2026-09-20T04:52:23Z._
+_Snapshot: `data/card/260921.yml` · 2026-09-21T04:58:59Z._
