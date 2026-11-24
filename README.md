@@ -26,12 +26,12 @@ Total: **14,504** lines of code across **140** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **3.1 / 10**
+Overall score: **2.9 / 10**
 
 Lowest-scoring checks:
 
+- **Maintained** (0/10) — 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
 - **Code-Review** (1/10) — Found 5/30 approved changesets -- score normalized to 1
-- **Maintained** (2/10) — 2 commit(s) and 1 issue activity found in the last 90 days -- score normalized to 2
 - **Packaging** (-1/10) — packaging workflow not detected
 
 ## Source
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-24 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-25 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-27 | 0 | 2 | 0 | 1 | 0 | 2 |
-| 360d | 2025-11-28 | 1 | 5 | 0 | 1 | 1 | 5 |
-| last720d | 2024-12-03 | 2 | 15 | 0 | 3 | 2 | 15 |
+| 30d | 2026-10-25 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-25 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-26 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-28 | 0 | 2 | 0 | 1 | 0 | 2 |
+| 360d | 2025-11-29 | 1 | 5 | 0 | 1 | 1 | 5 |
+| last720d | 2024-12-04 | 2 | 15 | 0 | 3 | 2 | 15 |
 
 ## Release assets
 
@@ -97,4 +97,4 @@ Install metadata for intermodal lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261123.yml` · 2026-11-23T07:34:35Z._
+_Snapshot: `data/card/261124.yml` · 2026-11-24T09:52:23Z._

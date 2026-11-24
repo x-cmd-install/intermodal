@@ -26,12 +26,12 @@ x install intermodal
 
 ## OpenSSF Scorecard 评分
 
-总评分: **3.1 / 10**
+总评分: **2.9 / 10**
 
 评分最低的几项:
 
+- **Maintained** (0/10) — 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
 - **Code-Review** (1/10) — Found 5/30 approved changesets -- score normalized to 1
-- **Maintained** (2/10) — 2 commit(s) and 1 issue activity found in the last 90 days -- score normalized to 2
 - **Packaging** (-1/10) — packaging workflow not detected
 
 ## 源代码
@@ -58,12 +58,12 @@ x install intermodal
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-24 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-25 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-27 | 0 | 2 | 0 | 1 | 0 | 2 |
-| 360d | 2025-11-28 | 1 | 5 | 0 | 1 | 1 | 5 |
-| last720d | 2024-12-03 | 2 | 15 | 0 | 3 | 2 | 15 |
+| 30d | 2026-10-25 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-25 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-26 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-28 | 0 | 2 | 0 | 1 | 0 | 2 |
+| 360d | 2025-11-29 | 1 | 5 | 0 | 1 | 1 | 5 |
+| last720d | 2024-12-04 | 2 | 15 | 0 | 3 | 2 | 15 |
 
 ## Release 资产
 
@@ -97,4 +97,4 @@ intermodal 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261123.yml` · 2026-11-23T07:34:35Z._
+_数据快照: `data/card/261124.yml` · 2026-11-24T09:52:24Z._
